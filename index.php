@@ -7,7 +7,7 @@
 
 	<?php
 
-		$name = "what's' up hommies?";
+		$name = "what's'";
 		echo $name;
 
 	?>
